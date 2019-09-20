@@ -1,0 +1,1 @@
+<div id="footer"><small><p>Aplikasi Data Mining Algoritma C45 -  &copy; Teknik Informatika UPI YPTK Padang 2015</p></small></div>
